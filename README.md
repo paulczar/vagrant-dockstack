@@ -14,7 +14,7 @@ Here's how you can quickly get testing or developing against the cookbook thanks
 ### Running:
 
     git clone https://github.com/paulczar/vagrant-dockstack.git
-    cd chef-docker
+    cd vagrant-dockstack
     vagrant up 
 
 You can then SSH into the running VM using the `vagrant ssh` command.
