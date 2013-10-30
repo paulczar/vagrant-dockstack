@@ -17,7 +17,8 @@ Here's how you can quickly get testing or developing against the cookbook thanks
     cd vagrant-dockstack
     vagrant up 
 
-You can then SSH into the running VM using the `vagrant ssh` command.
+* You can then SSH into the running VM using the `vagrant ssh` command.
+* Occasionally the new version of vagrant doesn't run the provision scripts,  if that happens simply run `vagrant provision` to kick them off.
 
 ### Did it work?
 
